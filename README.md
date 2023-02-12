@@ -1,3 +1,7 @@
-# IA2022
+# Trabalho de IA 2022/2023: RaceTracker
 
-Projeto de Grupo de IA2022
+## Membros do grupo
+Ricardo Araújo
+Matilde Fernandes
+Ricardo Lucena
+Nuno Costa
