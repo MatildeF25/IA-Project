@@ -1,7 +1,7 @@
 # Trabalho de IA 2022/2023: RaceTracker
 
 ## Membros do grupo
-Ricardo Araújo
-Matilde Fernandes
-Ricardo Lucena
-Nuno Costa
+1. Ricardo Araújo
+2. Matilde Fernandes
+3. Ricardo Lucena
+4. Nuno Costa
